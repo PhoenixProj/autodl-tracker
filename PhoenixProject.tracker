@@ -48,7 +48,7 @@
 	<parseinfo>
 		<linepatterns>
 			<extract>
-				<regex value="TORRENT: (.*) - (.*) - https?://.* / (https?://.*id=\d+)"/>
+				<regex value="🔥 (.*) - (.*) - https?://.* / (https?://.*id=\d+)"/>
 				<vars>
 					<var name="torrentName"/>
 					<var name="tags"/>
